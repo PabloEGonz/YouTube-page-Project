@@ -1,0 +1,52 @@
+.menuicon{
+    width: 20px;
+  height: 2.5px;
+  background-color: rgb(162, 155, 155);
+  margin: 4px 25px 5px 15px;
+}
+#logo{
+    height: 25px;
+    
+}
+
+nav{
+    display:inline-flex;
+}
+#brand{
+    margin: 0 0 0 5px;
+    float: left;
+    font-size: 20px;
+}
+#search{
+    display:inline-flex;
+    margin-left: 20px;
+    float: right;
+}
+#searchbar{
+    height: 20px;
+    width: 500px;
+    border-radius: 10px 0px 0px 10px;
+    border: 1px solid #979292;
+}
+#mgicon{
+ height: 18px;
+ border: 1px solid #979292;
+ padding: 2px;
+ border-radius: 0px 10px 10px 0px;
+}
+#voiceicon{
+    height: 20px;
+    margin: 2px 0 0 20px;
+
+}
+#upload{
+
+    height: 25px;
+    margin: 0 0 0 125px;
+    
+}
+#bell{
+    height: 25px;
+    margin: 0 0 0 20px;
+    float: right;
+}
